@@ -3,5 +3,6 @@
         <file>main.qml</file>
         <file>SideBar.qml</file>
         <file>TaskList.qml</file>
+        <file>TaskCreator.qml</file>
     </qresource>
 </RCC>
