@@ -16,12 +16,15 @@ find_package(GMP REQUIRED)
 
 set(SOURCES
     src/main.cpp
+    src/task_model.cpp
+    src/thread_pool.cpp
 )
 
 set(QT_SOURCES
     # QML resource file
     qml/qml.qrc
     # Headers below required for MOC generations
+    include/task_model.hpp
     include/task_info.hpp
 )
 
