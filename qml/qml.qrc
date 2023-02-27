@@ -1,6 +1,7 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>SideBar.qml</file>
         <file>TaskList.qml</file>
     </qresource>
 </RCC>
